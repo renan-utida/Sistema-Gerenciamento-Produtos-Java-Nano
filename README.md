@@ -145,8 +145,15 @@ O sistema já vem com algumas categorias e produtos pré-cadastrados:
 
 ## 📱 Screenshots
 
-![image](https://github.com/user-attachments/assets/208ab30d-7b6c-46db-989f-ba86880cb460)
+### Tela de Menu
+
+![image](https://github.com/user-attachments/assets/150ddf81-0b0d-4256-a25b-f95bdef0cf50)
+
+### Cadastro de Celular com Sucesso
+
 ![image](https://github.com/user-attachments/assets/b3ce37d1-4ab2-440a-9019-82476418112b)
+
+### Consultando Produto por ID com Sucesso
 ![image](https://github.com/user-attachments/assets/df1e3018-3cce-4cf1-b612-3218f68f371e)
 
 ## 🎯 Próximas Melhorias
