@@ -145,11 +145,9 @@ O sistema já vem com algumas categorias e produtos pré-cadastrados:
 
 ## 📱 Screenshots
 
-![image](<img width="1025" height="401" alt="image" src="https://github.com/user-attachments/assets/208ab30d-7b6c-46db-989f-ba86880cb460" />
-)
-![image](<img width="646" height="345" alt="image" src="https://github.com/user-attachments/assets/b3ce37d1-4ab2-440a-9019-82476418112b" />)
-![image](<img width="618" height="329" alt="image" src="https://github.com/user-attachments/assets/df1e3018-3cce-4cf1-b612-3218f68f371e" />
-)
+![image](https://github.com/user-attachments/assets/208ab30d-7b6c-46db-989f-ba86880cb460)
+![image](https://github.com/user-attachments/assets/b3ce37d1-4ab2-440a-9019-82476418112b)
+![image](https://github.com/user-attachments/assets/df1e3018-3cce-4cf1-b612-3218f68f371e)
 
 ## 🎯 Próximas Melhorias
 
